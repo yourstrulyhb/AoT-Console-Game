@@ -3,8 +3,8 @@ CMSC 22 Project
 
 **Design Patterns:**
 *Factory method
-*Mediator
-*Facade
+Mediator
+Facade
 
 **TDD Tools:**
 *JUnit
