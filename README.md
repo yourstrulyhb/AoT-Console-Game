@@ -1,6 +1,5 @@
 # Attack on Titan-inspired Console Combat Game
-#### CMSC 22 Project
-#### by _Hannah Bella C. Arceño_ 
+#### CMSC 22 Project by Hannah Bella C. Arceño
 
 _Requirements_
 * __Design Patterns:__
