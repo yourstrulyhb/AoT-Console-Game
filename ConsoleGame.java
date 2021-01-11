@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  * Attack on Titan-inspired Console Combat Game.
- * @author Hannah Bella C. Arceño
+ * @author Hannah Bella C. Arceño 
  * @version Alpha 1.0 
  * @since January 2020
  */
