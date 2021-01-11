@@ -1,7 +1,6 @@
 # Attack on Titan-inspired Console Combat Game
 ### CMSC 22 Project by Hannah Bella C. Arceño
-#### This personal project is inspired by Attack on Titan. And its final season is currently airing!
-
+#### This simple personal project was created with my love for Attack on Titan.
 
 __Design Patterns:__
 * Factory method
